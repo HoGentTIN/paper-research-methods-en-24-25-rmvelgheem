@@ -2,8 +2,7 @@
 
 | Surname      | First Name | Class     | Github user name                        |
 | :----------- | :--------- | :-------- | :-------------------------------------- |
-| SURNAME1     | FirstName1 | G2.C1     | [UserName](https://github.com/UserName) |
-| SURNAME2     | FirstName2 | G2.C1     | [UserName](https://github.com/UserName) |
+| Velghe     | Emile | 2B     | [Velghe0207](https://github.com/Velghe0207) |
 
 This Github-repository contains all the necessary information you need to prepare and write the paper for the subject Research Methods.
 
